@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuyzVictor
+- 👋 Hi, I’m Chukwudi
 - 🌱 I’m currently learning html & css
 - 💞️ I’m looking to collaborate on frontend project
 - ⚡ Fun fact: i like the stars
